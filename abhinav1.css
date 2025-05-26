@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.home{
+    text-align: center;
+    background-color: blue
+    ;
+
+}
+.home p{
+    text-align: center;
+}
